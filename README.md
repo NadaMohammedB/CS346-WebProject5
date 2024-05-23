@@ -26,8 +26,14 @@ Make sure you have the following installed on your machine:
 - [MongoDB](https://www.mongodb.com/)
 
   ### Installation
-  "" empty for now, must work on it later""
+  **Clone the repository:**
 
+   Open your terminal and run the following command:
+
+   ```sh
+   git clone https://github.com/NadaMohammedB/CS346-web.git
+   cd DineRiyadh
+   
 ## Contributers
 
 - **Nada Alotaibi** 
