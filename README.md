@@ -32,7 +32,9 @@ Make sure you have the following installed on your machine:
 
    ```sh
    git clone https://github.com/NadaMohammedB/CS346-web.git
-   cd DineRiyadh
+   cd CS346-web
+   ```
+   
    
 ## Contributers
 
