@@ -40,7 +40,7 @@ Make sure you have the following installed on your machine:
   ```
   npm install
   ```
-  ###Set up your MongoDB database:
+  ### Set up your MongoDB database:
   Ensure MongoDB is running on your local machine. If you don't have MongoDB installed, you can download and install it from [here](https://www.mongodb.com/)
    
    
