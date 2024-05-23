@@ -30,7 +30,7 @@ Make sure you have the following installed on your machine:
 
 ## Contributers
 
--Nada Alotaibi
--Lama Alfaris
--Rana Alrabiah
+- **Nada Alotaibi** 
+- **Lama Alfaris** 
+- **Rana Alrabiah**
 
