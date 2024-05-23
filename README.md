@@ -25,3 +25,12 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
+  ### Installation
+  "" empty for now, must work on it later""
+
+  Contributors
+
+Rana Alrabiah
+Lama Alfaris
+Nada Alotaibi
+
