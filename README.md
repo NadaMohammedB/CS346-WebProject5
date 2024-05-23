@@ -37,10 +37,9 @@ Make sure you have the following installed on your machine:
 
    ### Install dependencies:
   Run the following command to install the necessary dependencies:
-
-   ```sh
- npm install
-   ```
+  ```
+  npm install
+  ```
    
    
    
