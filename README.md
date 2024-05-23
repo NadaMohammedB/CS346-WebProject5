@@ -42,6 +42,15 @@ Make sure you have the following installed on your machine:
   ```
   ### Set up your MongoDB database:
   Ensure MongoDB is running on your local machine. If you don't have MongoDB installed, you can download and install it from [here](https://www.mongodb.com/)
+
+   ### Start the application:
+  Run the following command to start the application:
+   ```
+  npm start
+  ```
+   The application should now be running on http://localhost:3000.
+
+  ## Screenshots
    
    
    
