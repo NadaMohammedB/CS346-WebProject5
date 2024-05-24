@@ -65,6 +65,16 @@ Make sure you have the following installed on your machine:
    <img width="1440" alt="reserve" src="https://github.com/NadaMohammedB/CS346-old2/assets/124522150/5750b8a2-ff17-4eda-89b5-4c292fbc60e6">
    <img width="1440" alt="login" src="https://github.com/NadaMohammedB/CS346-old2/assets/124522150/15b09e3b-09cf-4b28-a828-cde30c83ff7e">
 
+
+   ## Future work
+
+
+- **Work on a sign up page** 
+- **Link the other pages with the database** 
+- **Expand the options of caffes, restaurants and other spots**
+- **Improve the quality of our website and add more features**
+- **Let users rate cafes and restaurants to share their experiences**
+
 ## Contributers
 
 
