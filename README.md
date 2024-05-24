@@ -10,7 +10,7 @@ DineRiyadh is a web application designed to make reserving and booking tables at
 
 ## Goals
 
--**1** Simplify the booking process.
+-**Simplify the booking process.** 
 -**2** Make it easier to look for cafes and restaurants in plazas.
 -**3** Enhance the overall customer experience.
 
