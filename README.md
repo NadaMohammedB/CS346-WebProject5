@@ -75,6 +75,12 @@ Make sure you have the following installed on your machine:
 - **Improve the quality of our website and add more features**
 - **Let users rate cafes and restaurants to share their experiences**
 
+   ## Resources 
+
+
+- [Flaticon](https://www.flaticon.com)
+- [Fontawesome](https://fontawesome.com)
+
 ## Contributers
 
 
